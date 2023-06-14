@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Vitest Workshop"
   text: "Safer development with Vue and Vitest"
-  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
