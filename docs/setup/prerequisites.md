@@ -41,7 +41,7 @@ Follow the installation process at
 [nvm-windows](https://github.com/coreybutler/nvm-windows)
 
 ## Clone the repository
-> The workshop [repository](), including these documentation pages, is
+> The workshop [repository](https://github.com/jardaroh/vitest-workshop), including these documentation pages, is
 > hosted on GitLab.
 
 ```bash
